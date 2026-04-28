@@ -1,0 +1,31 @@
+# Main Menu
+[[main]]
+    name = "Posts"
+    pageRef = "posts"
+    weight = 10
+
+[[main]]
+    name = "Categories"
+    pageRef = "categories"
+    weight = 20
+
+[[main]]
+    name = "Series"
+    pageRef = "series"
+    weight = 30
+
+[[main]]
+    name = "Tags"
+    pageRef = "tags"
+    weight = 40
+
+[[main]]
+    name = "Go & K8s"
+    url = "/categories/cloud-native/"
+    weight = 50
+
+[[main]]
+    name = "GitHub"
+    url = "https://github.com/"
+    pre = "github"
+    weight = 60
