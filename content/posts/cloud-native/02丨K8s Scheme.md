@@ -1,6 +1,6 @@
 +++
-title = "K8s Generic Server Options To Configs"
-date = 2026-04-27
+title = "K8s Scheme"
+date = 2026-05-08
 draft = false
 
 categories = [
@@ -15,7 +15,7 @@ tags = [
 series = [
     "k8s-api-server"
 ]
-series_order = 1
+series_order = 2
 +++
 API Server 可以分为 API 和 Server 两个部分来看待：
 
